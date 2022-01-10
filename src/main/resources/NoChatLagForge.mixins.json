@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "me.noahvdaa.nochatlag.forge.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "NoChatLag.refmap.json",
+  "refmap": "NoChatLagForge.refmap.json",
   "mixins": [
   ],
   "client": [
