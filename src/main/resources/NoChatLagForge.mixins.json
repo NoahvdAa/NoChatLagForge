@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.noahvdaa.nochatlag.forge.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "NoChatLag.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "GuiMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
