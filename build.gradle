@@ -15,7 +15,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.spongepowered.mixin'
 
 group = 'me.noahvdaa.nochatlag'
-version = '1.2.0-1.16.5'
+version = '1.1.0-1.16'
 
 java {
     archivesBaseName = 'NoChatLagForge'
